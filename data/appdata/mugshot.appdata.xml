@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <id type="desktop">mugshot.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0+</project_license>
+  <name>Mugshot</name>
+  <summary>Lightweight user configuration</summary>
+  <summary xml:lang="cs">Jednoduché uživatelské nastavení</summary>
+  <summary xml:lang="de">Einfache Nutzerkonfiguration</summary>
+  <summary xml:lang="es">Configuración de usuario superligera</summary>
+  <summary xml:lang="fi">Kevyt käyttäjätietojen muokkain</summary>
+  <summary xml:lang="fr">Configuration d'utilisateur minimale</summary>
+  <summary xml:lang="it">Semplice configurazione degli utenti</summary>
+  <summary xml:lang="lt">Supaprastintas naudotojo konfigūravimas</summary>
+  <summary xml:lang="nl">Lichtgewicht hulpmiddel voor gebruikersinstellingen</summary>
+  <summary xml:lang="pl">Lekka konfiguracja użytkownika</summary>
+  <summary xml:lang="pt">Configuração de utilizador leve</summary>
+  <summary xml:lang="ru">Ресусрсоэффективная (Lightweight) пользовательская конфигурация.</summary>
+  <summary xml:lang="sk">Hlavné nastavenia užívateľa</summary>
+  <summary xml:lang="sv">Resurssnål användarinställning</summary>
+
+  <description>
+    <p>Mugshot enables users to easily update personal contact information. With Mugshot, users are able to:</p>
+    <p xml:lang="cs">Mugshot umožňuje uživatelům snadno aktualizovat osobní kontaktní informace. S Mugshotem jsou uživatelé schopni:</p>
+    <p xml:lang="de">Mugshot ermöglicht es Benutzern, auf einfache Weise persönliche Informationen zu ändern. Mit Mugshot können Sie:</p>
+    <p xml:lang="el">Η εφαρμογή Mugshot επιτρέπει στους χρήστες να ενημερώνουν πληροφορίες προσωπικών επαφών με ευκολία. Με το Mugshot , οι χρήστες είναι σε θέση:</p>
+    <p xml:lang="es">Fotografía le permite a los usuarios actualizar fácilmente la información de contacto personal. Con Fotografía, los usuarios son capaces de:</p>
+    <p xml:lang="fi">Mugshotin avulla käyttäjät voivat päivittää henkilökohtaisia yhteystietoja helposti. Mugshotin avulla käyttäjät voivat:</p>
+    <p xml:lang="fr">Mugshot permet aux utilisateurs de mettre facilement à jour leurs coordonnées personnelles. Avec Mugshot, les utilisateurs peuvent :</p>
+    <p xml:lang="it">Mugshot consente agli utenti di aggiornare facilmente le informazioni personali di contatto. Con Mugshot, gli utenti possono:</p>
+    <p xml:lang="lt">Mugshot įgalina naudotojus lengvai atnaujinti asmeninę kontaktinę informaciją. Su Mugshot, naudotojai gali:</p>
+    <p xml:lang="nl">Mugshot stelt gebruikers in staat om eenvoudig persoonlijke contactpersooninformatie bij te werken. Met Mugshot kunnen gebruikers:</p>
+    <p xml:lang="pl">Mugshot umożliwia użytkownikom łatwą aktualizację osobistych informacji kontaktowych. Z Mugshot użytkownicy mogą:</p>
+    <p xml:lang="pt">O Mugshot permite aos utilizadores actualizar facilmente as informações de contato pessoal. Com o Mugshot, os utilizadores são capazes de:</p>
+    <p xml:lang="ru">Mugshot позволяет пользователям легко обновлять личную контактную информацию . С Mugshot , пользователи могут:</p>
+    <p xml:lang="sk">S Mugshot si môže používateľ jednoducho upraviť kontaktné údaje. S Mugshot používatelia môžu:</p>
+    <p xml:lang="sv">Mugshot tillåter användare att enkelt uppdatera personlig kontaktinformation. Med Mugshot kan användare:</p>
+    <ul>
+        <li>Set the account photo displayed at login and optionally synchronize this photo with their Pidgin buddy icon</li>
+        <li xml:lang="cs">Nastavit fotografii účtu, která se bude zobrazovat při přihlášení a případně ji nastavit jako ikonu v IM Pidgin</li>
+        <li xml:lang="de">Das Profilfoto, das beim Anmelden angezeigt wird, einstellen und es optional mit dem Pidgin-Frundesymbol synchronisieren.</li>
+        <li xml:lang="el">Να ορίσουν τη φωτογραφία λογαριασμού που εμφανίζεται στην οθόνη υποδοχής και προαιρετικά να συγχρονίσουν αυτή τη φωτογραφία με το εικονίδιο του Pidgin buddy.</li>
+        <li xml:lang="es">Establecer la foto de la cuenta que aparece al iniciar la sesión y, opcionalmente, sincronizar esta foto con su icono de contacto de amigo de Pidgin</li>
+        <li xml:lang="fi">Asettaa tilin valokuvan, joka näytetään kirjautumisikkunassa ja valinnaisesti synkronoida tämän kuvan Pidginin kaverikuvakkeekseen</li>
+        <li xml:lang="fr">Définir la photo qui sera affichée pour la connexion à leur session et éventuellement synchroniser cette photo avec l'icône de leur compte Pidgin.</li>
+        <li xml:lang="it">Impostare la foto dell'account mostrata al login ed opzionalmente sincronizzare questa foto con il proprio avatar Pidgin</li>
+        <li xml:lang="lt">Nustatyti, prisijungimo metu rodomą, paskyros nuotrauką ir pasirinktinai sinchronizuoti šią nuotrauką su savo Pidgin naudotojo paveiksliuku</li>
+        <li xml:lang="nl">Stel de accountfoto in die getoond wordt bij aanmelding en synchroniseer deze foto desgewenst met hun Pidgin-pictogram</li>
+        <li xml:lang="pl">Ustawić obraz konta wyświetlany podczas logowania i opcjonalnie synchronizowany ze swoją ikoną dla znajomych w Pidgin</li>
+        <li xml:lang="pt">Definir a fotografia exibida na conta de início de sessão e opcionalmente sincronizar essa fotografia com o seu ícone de amigo no Pidgin</li>
+        <li xml:lang="ru">Установить фото профиля, отображаемое в окне входа, и опционально синхронизировать это фото с Pidgin.</li>
+        <li xml:lang="sk">Nastaviť obrázok svojho účtu ktorý sa zobrazí pri prihlasovaní. a možnosť ho synchronizovať s ikonou v Pidgine</li>
+        <li xml:lang="sv">Ställa in fotot för kontot som visas vid inloggning och valfritt synkronisera detta foto med sin Pidgin buddy ikon</li>
+        <li>Set account details stored in /etc/passwd (usable with the finger command) and optionally synchronize with their LibreOffice contact information</li>
+        <li xml:lang="cs">Nastavit detaily účtu v souboru /etc/passwd (použitelné s příkazem finger) a případně synchronizovat s jejich LibreOffice kontaktními informacemi</li>
+        <li xml:lang="de">Kontodetails, die in /etc/passwd gespeichert werden einstellen und optional mit den LibreOffice-Kontaktinformationen synchronisieren.</li>
+        <li xml:lang="el">Να ορίσουν τις λεπτομέρειες λογαριασμού που είναι απόθηκευμένες στο /etc/passwd (μπορεί να χρησιμοποιηθεί με την εντολή finger) και προαιρετικά να τις συγχρονίσουν με τις πληροφορίες επαφής του LibreOffice</li>
+        <li xml:lang="es">Establecer detalles de cuentas almacenadas en /etc/passwd (que pueden utilizarse con la orden de huella digital) y, opcionalmente, sincronizar su información de contacto con LibreOffice</li>
+        <li xml:lang="fi">Asettaa tilin ominaisuuksia, joita säilytetään tiedostossa /etc/passwd (käytettävissä finger-komennolla) ja valinnaisesti synkronoida nämä tiedot LibreOfficen tietojen kanssa</li>
+        <li xml:lang="fr">Définir les détails de leur compte dans /etc/passwd (utilisable avec la commande finger) and éventuellement le synchroniser avec leurs informations de contact LibreOffice.</li>
+        <li xml:lang="it">Impostare i dettagli dell'account salvati in /etc/passwd (utilizzabile con il comando finger) ed opzionalmente sincronizzarli con le informazioni di contatto di LibreOffice</li>
+        <li xml:lang="lt">Nustatyti išsamesnę paskyros informaciją, laikomą /etc/passwd (naudojama su finger komanda) ir pasirinktinai sinchronizuoti su LibreOffice kontaktine informacija.</li>
+        <li xml:lang="nl">Stel accountbijzonderheden in die zijn opgeslagen in /etc/passwd (te gebruiken met de opdracht 'finger') en synchroniseer desgewenst met hun contactpersooninformatie in Libre Office.</li>
+        <li xml:lang="pl">Ustawić szczegóły konta przechowywane w /etc/passwd (dogodne przy ręcznych poleceniach) i opcjonalnie synchronizowane ze swoimi informacjami kontaktowymi w LibreOffice</li>
+        <li xml:lang="pt">Defina os detalhes da conta armazenados em /etc/passwd (utilizáveis ​​com o comando finger) e opcionalmente sincronize com as suas informações de contato do LibreOffice</li>
+        <li xml:lang="ru">Установить детали профиля, хранимые в /etc/passwd (удобно в использовании с командой finger), и опционально синхронизировать эту контактную информацию с Libreoffice.</li>
+        <li xml:lang="sk">Nastaviť údaje účtu uložené v /etc/passwd (pre použitie s príkazom finger) a možnosť synchronizovať ich s kontaktnými údajmi v LibreOffice</li>
+        <li xml:lang="sv">Ställa in detaljer som sparas i /etc/passwd (går att använda med fingerkommandot) och valfritt synkronisera med sin kontaktinformation i LibreOffice</li>
+    </ul>
+  </description>
+
+  <screenshots>
+    <screenshot width="640" type="default" height="360">http://screenshots.smdavis.us/mugshot/mugshot.png</screenshot>
+    <screenshot width="640" height="360">http://screenshots.smdavis.us/mugshot/mugshot-pidgin-sync.png</screenshot>
+  </screenshots>
+
+  <url type="homepage">https://launchpad.net/mugshot/</url>
+  <url type="bugtracker">https://bugs.launchpad.net/mugshot/</url>
+  <url type="help">http://wiki.smdavis.us/doku.php?id=mugshot-docs</url>
+
+  <updatecontact>smd-seandavis@ubuntu.com</updatecontact>
+
+  <provides>
+    <binary>mugshot</binary>
+  </provides>
+
+  <releases>
+    <release version="0.3.1" timestamp="1459470600">
+      <description>
+        <p>This development release fixes a large number of bugs from previous releases. User properties that cannot be edited are now restricted to administrative users.</p>
+      </description>
+    </release>
+
+    <release version="0.3.0" timestamp="1441648800">
+      <description>
+        <p>This development release upgrades the camera dialog to use Cheese and Clutter to display and capture the camera feed.</p>
+        <p xml:lang="de">Diese Entwickler-Version verbessert den Kamera-Dialog, der nun Cheese und Clutter für Anzeige und Aufnahme des Kamera Bildes nutzt.</p>
+        <p xml:lang="fr">Cette version de développement améliore le dialogue de la caméra visant à utiliser Cheese et Clutter pour afficher et capturer le retour de la caméra.</p>
+        <p xml:lang="lt">Ši kūrimo laida pagerina, kameros rodymui ir fotografavimui skirtą, kameros dialogą, naudojimui su Cheese ir Clutter.</p>
+        <p xml:lang="nl">Deze ontwikkelversie waardeert de cameradialoog op om Cheese en Clutter te gebruiken voor het vertonen en vastleggen van de camera-invoer.</p>
+        <p xml:lang="pt">Esta versão de desenvolvimento atualiza o diálogo da câmera para usar o Cheese e o Clutter para exibir e capturar a alimentação da câmera.</p>
+        <p xml:lang="sk">Táto verzia programu zlepšuje kamerové okno použitím knižníc Cheese a Clutter na zobrazenie obrazu z kamery.</p>
+        <p xml:lang="sv">Den här utvecklingsversionen uppgraderar kameradialogen till att använda Cheese och Clutter för att visa och fånga kamerainmatning.</p>
+      </description>
+    </release>
+
+    <release version="0.2.5" timestamp="1409617800">
+      <description>
+        <p>This stable release improves Mugshot functionality for LDAP users, and includes the latest SudoDialog, improving the appearance and usability of the password dialog.</p>
+        <p xml:lang="cs">Tato stabilní verze zlepšuje funkčnost Mugshotu pro uživatele LDAP, a zahrnuje nejnovější SudoDialog, zlepšení vzhledu a použitelnosti dialogu hesla.</p>
+        <p xml:lang="de">Diese stabile Version verbessert die LDAP-Funktionalität und beinhaltet den aktuellsten SudoDialog, wodurch das Erscheinungsbild und die Nutzerfreundlichkeit des Passwortdialogs verbessert wird.</p>
+        <p xml:lang="el">Αυτή η σταθερή έκδοση βελτιώνει τη λειτουργικότητα του Mugshot για χρήστες LDAP, και περιλαμβάνει το πιο πρόσφατο Παράθυρο Διαλόγου Sudo, βελτιώνοντας την εμφάνιση και τη χρηστικότητα του παραθύρου διαλόγου εισαγωγής συνθηματικού.</p>
+        <p xml:lang="es">Esta versión estable mejora la funcionalidad de Fotografía para usuarios de LDAP, e incluye el último Diálogo de sudo, mejorando el aspecto y la usabilidad del diálogo de contraseña.</p>
+        <p xml:lang="fr">Cette version stable améliore les fonctionnalités de Mugshot pour les utilisateurs LDAP et inclut le dernier SudoDialog, qui améliore l'apparence et l'ergonomie de la fenêtre de dialogue du mot de passe.</p>
+        <p xml:lang="it">Questa release stabile migliore le funzionalità di Mugshot per utenti LDAP ed include il più recente SudoDialog, migliorando l'aspetto e l'usabilità della finestra di immissione password.</p>
+        <p xml:lang="lt">Ši stabili laida patobulina Mugshot funkcionalumą LDAP naudotojams ir įtraukia vėliausią SudoDialogą, patobulindama slaptažodžio dialogo išvaizdą ir patogumą naudoti.</p>
+        <p xml:lang="nl">Deze stabiele versie verbetert de functionaliteit van Mugshot voor LDAP-gebruikers, en bevat de nieuwste SuDoDialog, wat een verbetering is van het uiterlijk en de bruikbaarheid van de wachtwoorddialoog.</p>
+        <p xml:lang="pt">Esta versão estável melhora a funcionalidade do Mugshot para utilizadores LDAP, e inclui o mais recente SudoDialog, melhorando a aparência e usabilidade do diálogo da senha.</p>
+        <p xml:lang="pt_BR">Esta versão estável melhora a funcionalidade Mugshot para usuários LDAP e inclui a mais recente versão do SudoDialog, melhorando a aparência e usabilidade da caixa de diálogo de senha.</p>
+        <p xml:lang="ru">Это стабильный релиз улучшает функциональность Mugshot для пользователей LDAP , и включает в себя последнюю версию SudoDialog , улучшения внешнего вида и диалогового окна ввода пароля.</p>
+        <p xml:lang="sk">Táto stabilná verzia vylepšuje funkcionalitu Mugshotu pre užívateľov LDAP, obsahuje nový SudoDialog, zlepšuje vzhľad a použiteľnosť dialógu na zadanie hesla.</p>
+        <p xml:lang="sv">Denna stabila version förbättrar Mugshots funktionalitet för LDAP-användare, och inkluderar den senaste SudoDialog, som förbättrar utseende och användning av lösenordsdialogen.</p>
+      </description>
+    </release>
+
+    <release version="0.2.4" timestamp="1406977200">
+      <description>
+        <p>This stable release improves the user configuration (chfn) backend and prevents Mugshot from locking up. Mugshot also no longer depends on AccountsService, but can leverage it to better support some systems. A critical bug that prevented some users from starting Mugshot was also addressed.</p>
+        <p xml:lang="cs">Tato stabilní verze zlepšuje uživatelskou konfiguraci (chfn) backendu a zabraňuje Mugshotu se zablokovat. Mugshot už také není závislý na službě Účty, ale mohou být využity pro lepší podporu některých systémů. Kritická chyba, která brání některým uživatelům spuštění Mugshotu, byla také vyřešena.</p>
+        <p xml:lang="de">Diese stabile Version verbessert die Benutzerkonfiguration (chfn) und verhindert, dass Mugshot abstürzt. Mugshot hängt nun nicht mehr von AccountsService ab, kann es aber besser zur Unterstützung von bestimmten Systemen einsetzen. Ein kritischer Fehler, der manche Nutzer am Start von Mugshot hinderte wurde ebenfalls behoben.</p>
+        <p xml:lang="el">Αυτή η σταθερή έκδοση βελτιώνει το παρασκήνιο (backend) διαμόρφωσης χρήστη (chfh) και εμποδίζει το κλέιδωμα του Mugshot. Ακόμη, τo Mugshot δεν εξαρτάται πλέον από την Υπηρεσία Λογαριασμών (AccountsService), αλλά μπορεί να την επηρρεάσει για καλύτερη υποστήριξη κάποιων συστημάτων. Επίσης, αντιμετωπίστηκε ένα σοβαρό bug, το οποίο εμπόδιζε κάποιους χρήστες από το να εκκινήσουν το Mugshot.</p>
+        <p xml:lang="es">Esta versión estable mejora el backend de configuración de usuario (chfn) y evita que Mugshot se bloquee. Además, Mugshot no depende ya de AccountsService, pero puede aprovecharlo para dar mejor soporte a algunos sistemas. Un fallo crítico que impedía a algunos usuarios iniciar Mugshot también ha sido corregido.</p>
+        <p xml:lang="fr">Cette version stable améliore la configuration utilisateur native (chfn) et empêche Mugshot de se bloquer. Mugshot ne dépend également plus de AccountsService, mais peut en tirer parti afin de mieux supporter certains systèmes. Un bug critique qui empêchais certains utilisateurs de démarrer Mugshot a également été corrigé.</p>
+        <p xml:lang="it">Questa release stabile migliora il backend di configurazione utente (chfn) ed impedisce a Mugshot di bloccarsi. Inoltre Mugshot non dipende più da AccountsService, ma può sfruttarlo per supportare meglio alcuni sistemi. È stato anche risolto un bug critico che impediva ad alcuni utenti di avviare Mugshot.</p>
+        <p xml:lang="lt">Ši stabili laida patobulina naudotojo konfigūracijos (chfn) vidinę pusę bei apsaugo Mugshot nuo užsirakinimo. Mugshot daugiau nebepriklauso nuo PaskyrųTarnybos, tačiau gali pasinaudoti ja, siekiant geresnio kai kurių sistemų palaikymo. Be to, buvo ištaisyta kritinė klaida, kuri kai kuriems naudotojams neleido paleisti Mugshot.</p>
+        <p xml:lang="nl">Deze stabiele versie verbetert de achtergronddienst voor gebruikersinstelling (chfn) en verhindert dat Mugshot vastloopt. Mugshot is ook niet langer afhankelijk van AccountsService, maar kan het wel gebruiken voor betere ondersteuning op sommige systemen. Een kritieke fout die gebruikers belemmerde om Mugshot te starten werd eveneens hersteld.</p>
+        <p xml:lang="pt">Esta versão estável melhora a infra-estrutura de configuração do utilizador (chfn) e impede o Mugshot de bloquear sessões. O Mugshot também não depende mais do AccountsService, mas pode aproveitá-lo para melhor apoiar alguns sistemas. Um bug crítico que impediu alguns utilizadores de iniciar o Mugshot também foi abordado.</p>
+        <p xml:lang="sk">Táto stabilná verzia vylepšuje backend konfigurácie používateľa (chfn) a zabraňuje uzamknutiu Mugshotu. Mugshot taktiež už nemá závislosť na AccountsService ale môže ho využiť na lepšiu podporu na niektorých systémoch. Taktiež bola opravená kritická chyba ktorá bránila spusteniu Mugshot.</p>
+        <p xml:lang="sv">Denna stabila version förbättrar användarinställningen (chfn) bakänden och förhindrar Mugshot från att låsa sig. Mugshot också inte längre beroende av AccountsService, men kan använda det för stödja vissa system bättre. Ett kritiskt fel som förhindrade en del användare från att starta Mugshot har också åtgärdats.</p>
+      </description>
+    </release>
+
+    <release version="0.2.3" timestamp="1396661280">
+      <description>
+        <p>This stable release improved AccountsService functionality and overall usability. Users without admin rights can no longer attempt to change their name, and initials are automatically populated when the name is entered.</p>
+        <p xml:lang="cs">Tato stabilní verze zlepšuje  funkčnost služby Účty a celkovou použitelnost. Uživatelé bez administrátorských práv už nemohou měnit své jméno, a iniciály jsou, když je zadán název, automaticky vyplněny.</p>
+        <p xml:lang="de">Diese stabile Version verbessert die AccountsService-Funktionalität und die allgemeine Nutzerfreundlichkeit. Anwender ohne Systemverwaltungsrechten können ihren Namen nicht mehr ändern und die Initialen werden automatisch ergänzt, wenn der Name eingegeben wurde.</p>
+        <p xml:lang="el">Αυτή η σταθερή έκδοση βελτίωσε τη λειτουργικότητα της Υπηρεσίας Λογαριασμών (AccountsService) και τη συνολική χρηστικότητα. Χρήστες χωρίς δικαιώματα διαχειριστή δε μπορούν πλέον να επιχειρήσουν να αλλάξουν το όνομά τους, και τα αρχικά συμπληρώνονται αυτόματα κατά την εισαγωγή του ονόματος.</p>
+        <p xml:lang="es">Esta versión estable ha mejorado la funcionalidad de AccountsService y la usabilidad en general. Usuarios sin privilegios de administrador ya no pueden intentar cambiar su nombre, y las iniciales se rellenan automáticamente cuando se introduce el nombre.</p>
+        <p xml:lang="fr">Cette version stable a amélioré la fonctionnalité et la convivialité générale de AccountsService. Les utilisateurs sans droits d'administrateur ne peuvent plus tenter de changer leur nom, et leur initiales sont automatiquement peuplées lorsque le nom est entré.</p>
+        <p xml:lang="it">Questa release stabile migliora la funzionalità di AccountsService e l'usabilità generale. Gli utenti con diritti amministrativi non possono più provare a cambiare il proprio nome e le iniziali sono automaticamente estratte all'immissione del nome.</p>
+        <p xml:lang="lt">Ši stabili laida patobulino PaskyrųTarnybos funkcionalumą bei bendrą patogumą naudoti. Naudotojai be administratoriaus teisių daugiau nebegali bandyti keisti savo vardo, o inicialai yra automatiškai užpildomi, įvedus vardą.</p>
+        <p xml:lang="nl">Deze stabiele versie verbeterde de functionaliteit van AccountsService en de algehele bruikbaarheid. Gebruikers zonder beheerdersrechten kunnen niet langer proberen om hun naam te veranderen, en voorletters worden automatisch toegevoegd wanneer de naam wordt ingevoerd.</p>
+        <p xml:lang="pt">Esta versão estável melhorou a funcionalidade e utilização do AccountsService em geral. Os utilizadores sem direitos de administrador já não podem tentar mudar o seu nome, e as iniciais são preenchidos automaticamente quando o nome é inserido.</p>
+        <p xml:lang="sk">Táto stabilná verzia zlepšuje funkcionalitu AccountsService a celkovú použiteľnosť. Užívatelia ktorí nemajú administrátorské práva nemôžu zmeniť svoje meno, a iniciály sú vyplnené automaticky pri zadaní mena.</p>
+        <p xml:lang="sv">Denna stabila version förbättrade AccountsService-funktionaliteten och övergripande användbarhet. Användare utan admin-rättigheter kan inte längre försöka ändra sina namn, och initialer fylls automatiskt i då namnet anges.</p>
+      </description>
+    </release>
+
+    <release version="0.2.2" timestamp="1394366340">
+      <description>
+        <p>This stable release fixed a crash that occured when saving user details in a non-English locale. This release also included an updated translation template and new translations.</p>
+        <p xml:lang="cs">V této stabilní verzi je opraven pád, ke kterému došlo při ukládání údajů uživatele v jiném než anglickém prostředí. Tato verze také aktualizuje překladovou šablonu a nové překlady.</p>
+        <p xml:lang="de">Diese stabile Version behebt einen Absturz beim Speichern von Benutzerdetails in einer anderen Sprache als Englisch. Diese Version enthält auch aktualisierte Übersetzungsvorlagen und neue Übersetzungen.</p>
+        <p xml:lang="el">Αυτή η σταθερή έκδοση επιδιόρθωσε ένα σφάλμα συστήματος που συνέβαινε κατά την αποθήκευση λεπτομερειών χρήστη σε μη-Αγγλικές τοπικές ρυθμίσεις. Αυτή η έκδοση περιλαμβάνει επίσης ένα ενημερωμένο πρότυπο μετάφρασης και νέες μεταφράσεις.</p>
+        <p xml:lang="es">Esta versión estable ha corregido un error que ocurría cuando se guardaban detalles de usuario en un idioma no inglés. Esta versión ha incluído una plantilla de traducción actualizada así como nuevas traducciones.</p>
+        <p xml:lang="fr">Cette version stable corrige un plantage survenant lors de la sauvegarde de détails utilisateur en environnement non-anglophone. Cette version comprend également un modèle de traduction mis à jour et de nouvelles traductions.</p>
+        <p xml:lang="it">Questa release stabile risolve un crash che si verificava salvando i dettagli utente in una lingua diversa dall'Inglese. Questa release include anche un modello di traduzione aggiornato e nuove traduzioni.</p>
+        <p xml:lang="lt">Ši stabili laida ištaisė strigtį, kuri atsirasdavo, kuomet naudotojo detalės buvo išsaugomos ne Anglų lokalėje. Šioje laidoje taip pat įtraukti atnaujinti vertimų šablonai bei nauji vertimai.</p>
+        <p xml:lang="nl">Deze stabiele versie herstelde een vastloper die optrad wanneer gebruikersbijzonderheden werden opgeslagen in een niet-Engelse regionalisatie. Deze versie bevatte ook een bijgewerkt vertaalsjabloon en nieuwe vertalingen.</p>
+        <p xml:lang="pt">Esta versão estável fixa um crash que ocorria ao gravar os detalhes de utilizador quando o locale definido não fosse Inglês. Esta versão também inclui um modelo de tradução atualizado e novas traduções.</p>
+        <p xml:lang="sk">Táto stabilná verzia opravila pád programu pri uložení údajov používateľa v ne-anglických jazykoch. Táto verzia tiež obsahuje upravenú šablónu pre preklady a nové preklady.</p>
+        <p xml:lang="sv">Denna stabila version fixade en krasch som inträffade då användaruppgifter sparades i en ickeengelsk miljö. Denna utgåva inkluderar också en uppdaterad mall och nya översättningar.</p>
+      </description>
+    </release>
+
+    <release version="0.2.1" timestamp="1393800000">
+      <description>
+        <p>This stable release fixed several bugs related to profile image management, introduced an improved password dialog, and transitioned to using GLib to more reliably determine user and environment settings.</p>
+        <p xml:lang="cs">V této stabilní verzi je opraveno několik chyb souvisejících se správou snímků, představuje vylepšený dialog pro heslo a přešlo se k používání GLib pro spolehlivější určení uživatele a nastavení prostředí.</p>
+        <p xml:lang="de">Diese stabile Version behebt mehrere Fehler im Bezug auf die Handhabung von Profilbildern, führt einen verbesserten Passwortdialog und hat zur GLib-Bibliothek gewechselt um Benutzer- und Umgebungseinstellungen zuverlässiger bestimmen zu können.</p>
+        <p xml:lang="el">Αυτή η σταθερή έκδοση επιδιόρθωσε διάφορα bugs που σχετίζονται με τη διαχείριση εικόνας προφίλ, εισήγαγε ένα βελτιωμένο παράθυρο διαλόγου για την εισαγωγή του συνθηματικού, και μετέβη στη χρήση του GLib προκειμένου να καθορίζονται πιο αξιόπιστα οι ρυθμίσεις χρήστη και περιβάλλοντος.</p>
+        <p xml:lang="es">Esta versión estable ha corregido varios fallos relacionados con la administración de la imagen del perfil, ha introducido un diálogo de contraseña mejorado, y ahora usa GLib para determinar con mayor fiabilidad la configuración de usuario y entorno.</p>
+        <p xml:lang="fr">Cette version stable a réparé plusieurs bugs liés à la gestion d'image de profil, a présenté une boîte de dialogue de mot de passe améliorée, et a transitionné à l'utilisation de GLib afin de déterminer de façon plus fiable les paramètres utilisateur et environnement.</p>
+        <p xml:lang="it">Questa release stabile risolve molti bug relativi alla gestione dell'immagine del profilo, introduce una finestra di immissione password migliorata e passa ad usare GLib per determinare in maniera più affidabile le impostazioni degli utenti e dell'ambiente.</p>
+        <p xml:lang="lt">Ši stabili laida ištaisė kelias, su profilio paveikslo valdymu susijusias, klaidas, pristatė ir patobulino slaptažodžio dialogą ir, siekiant patikimiau nustatyti naudotojo ir aplinkos nustatymus, perėjo prie GLib naudojimo.</p>
+        <p xml:lang="nl">Deze stabiele versie herstelde verschillende fouten betreffende het beheer van de profielafbeelding, introduceerde een verbeterde wachtwoorddialoog, en ging over op GLib om gebruikers- en omgevingsinstellingen betrouwbaarder vast te stellen.</p>
+        <p xml:lang="pt">Esta versão estável fixa vários bugs relacionados com o perfil de gestão de imagens, apresenta uma caixa de diálogo de senha aprimorado, e transitou para utilizar GLib para determinar de forma mais confiável configurações de utilizador e de ambiente.</p>
+        <p xml:lang="sk">Táto stabilná verzia opravila niekoľko chýb ohľadom správy profilového obrázka, pridala vylepšené zadávanie hesla, a začala  používať GLib aby spoľahlivejšie vedela získať nastavenia používateľa a prostredia.</p>
+        <p xml:lang="sv">Denna stabila version fixade åtskilliga fel relaterade till hantering av profilbilder, introducerade en förbättrad lösenordsdialog, och gick över till GLib för att mer pålitligt avgöra användare och miljöinställningar.</p>
+      </description>
+    </release>
+
+    <release version="0.2.0" timestamp="1390737600">
+      <description>
+        <p>The first stable release introduced simplified packaging, replaced the Help functionality with the online help documents, and transitioned to using Python 3.</p>
+        <p xml:lang="cs">První stabilní verze představila zjednodušené balíčkování, nahradila funkčnost Nápovědy online dokumenty a přešla k používání Python 3.</p>
+        <p xml:lang="de">Die erste stabile Version führte vereinfachte Paketierung ein, ersetzte die Hilfefunktionalität durch Internethilfedokumente und wechselte zu Python 3.</p>
+        <p xml:lang="el">Η πρώτη σταθερή έκδοση εισήγαγε απλοποιημένο packaging, αντικατέστησε τη λειτουργία της Βοήθειας με τα έγγραφα βοήθειας στο διαδίκτυο, και μετέβη στη χρήση της Python 3.</p>
+        <p xml:lang="es">La primera versión estable introdujo una administración de paquetes simplificada, sustituyó la funcionalidad de ayuda por la documentación de ayuda online, y pasó a usar Python 3.</p>
+        <p xml:lang="fr">La première version stable introduit un emballage simplifié, a remplacé la fonctionnalité d'aide avec les documents d'aide en ligne, et a transitionné vers l'utilisation de Python 3.</p>
+        <p xml:lang="it">La prima release stabile introduce una pacchettizzazione semplificata, sostituisce la funzione di Help con la documentazione online e passa ad usare Python 3.</p>
+        <p xml:lang="lt">Pirmoji stabili laida pristatė supaprastintą pakavimą, pakeitė Pagalbos funkcionalumą pagalbiniais dokumentais internete ir perėjo prie Python 3 naudojimo.</p>
+        <p xml:lang="nl">De eerste stabiele versie introduceerde vereenvoudigde verpakking, verving de Hulpfunctionaliteit door hulpdocumenten op het internet en ging over op het gebruik van Python 3.</p>
+        <p xml:lang="pt">A primeira versão estável introduziu pacotes simplificados, substituiu a funcionalidade da Ajuda com os documentos de ajuda on-line, e transitou para Python 3.</p>
+        <p xml:lang="sk">Prvá stabilná verzia priniesla jednoduchšie balíčkovanie, nahradila funkciu Pomoc odkazom na dokument na webe, a začala používať Python 3.</p>
+        <p xml:lang="sv">Den första stabila versionen introducerade förenklad packning, ersatte hjälpfunktionen med hjälpdokument online, och gick över till att använda Python 3.</p>
+      </description>
+    </release>
+  </releases>
+
+</application>
