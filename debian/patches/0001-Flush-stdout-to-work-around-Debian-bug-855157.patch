@@ -1,0 +1,23 @@
+From: Cihangir Akturk <cihangir@pardus.org.tr>
+Date: Tue, 28 Feb 2017 11:04:30 +0300
+Subject: Flush stdout to work around Debian bug #855157
+
+Signed-off-by: Cihangir Akturk <cihangir@pardus.org.tr>
+---
+ mugshot_lib/AccountsServiceAdapter.py | 3 +++
+ 1 file changed, 3 insertions(+)
+
+diff --git a/mugshot_lib/AccountsServiceAdapter.py b/mugshot_lib/AccountsServiceAdapter.py
+index d699a49..de332a0 100644
+--- a/mugshot_lib/AccountsServiceAdapter.py
++++ b/mugshot_lib/AccountsServiceAdapter.py
+@@ -146,6 +146,9 @@ class MugshotAccountsServiceAdapter:
+             (path,) = result.unpack()
+             return path
+         except:
++            # XXX: Don't know why but flushing the stdout here magically
++            # made the bug disappear.
++            sys.stdout.flush()
+             return None
+ 
+     def get_email(self):
