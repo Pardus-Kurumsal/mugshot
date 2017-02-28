@@ -1,3 +1,10 @@
+mugshot (0.3.1-1pardus1) unstable; urgency=medium
+
+  * Temporarily take maintainership of this package
+  * Add patch to work around Debian bug #855157
+
+ -- Cihangir Akturk <cihangir@pardus.org.tr>  Tue, 28 Feb 2017 11:29:11 +0300
+
 mugshot (0.3.1-1) unstable; urgency=medium
 
   * New upstream release
