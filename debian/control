@@ -1,10 +1,7 @@
 Source: mugshot
 Section: python
 Priority: optional
-Maintainer: Python Applications Packaging Team <python-apps-team@lists.alioth.debian.org>
-Uploaders:
- Jackson Doak <noskcaj@ubuntu.com>,
- Sean Davis <smd.seandavis@gmail.com>
+Maintainer: Cihangir Akturk <cihangir@pardus.org.tr>
 Build-Depends: debhelper (>= 9), python3, python3-distutils-extra,
  python3-pexpect, python3-dbus, python3-gi, gir1.2-gtk-3.0
 Standards-Version: 3.9.8
