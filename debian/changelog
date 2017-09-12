@@ -1,3 +1,9 @@
+mugshot (0.3.1-1pardus2) unstable; urgency=medium
+
+  * debin/patches: Add patches for Turkish language *.po file
+
+ -- Cihangir Akturk <cihangir@pardus.org.tr>  Tue, 12 Sep 2017 11:24:09 +0300
+
 mugshot (0.3.1-1pardus1) unstable; urgency=medium
 
   * Temporarily take maintainership of this package
